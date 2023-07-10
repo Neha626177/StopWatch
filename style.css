@@ -59,3 +59,15 @@ body{
     background-color: #3c98ff;
     color: #f0f9ff;
 }
+
+@media (max-width:480px) {
+
+    .buttons button{
+    font-size: 15px; 
+    padding: 10px 10px;
+}
+    .timer-display{
+    padding: 0.5em 0;
+    font-size: 1.3rem; 
+}
+}
