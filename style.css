@@ -70,4 +70,7 @@ body{
     padding: 0.5em 0;
     font-size: 1.3rem; 
 }
+.buttons{
+    margin: 3em  auto 15px auto;
+}
 }
